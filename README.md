@@ -6,6 +6,7 @@
 * Timothée Tallon
 * Pierre-Marie Ageneau
 * Vincent Gaillard
+* Bernard Lupiac
 
 ### Rules
 * Please do not commit .gitignore file
