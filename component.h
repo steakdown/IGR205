@@ -9,8 +9,8 @@
 #define COMPONENT_H_
 
 #include <vector>
-#include "Vec3f.h"
-#include "Vec3i.h"
+#include "vec3f.h"
+#include "vec3i.h"
 
 class Component {
 public:

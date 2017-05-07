@@ -8,8 +8,8 @@
  */
 
 #include "model.h"
-#include "Vec3f.h"
-#include "Vec3i.h"
+#include "vec3f.h"
+#include "vec3i.h"
 
 int main( int argc, const char* argv[] )
 {

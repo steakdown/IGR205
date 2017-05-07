@@ -5,7 +5,7 @@
  *      Author: blupi
  */
 
-#include "Vec3i.h"
+#include "vec3i.h"
 
 Vec3i::Vec3i() {}
 
@@ -34,4 +34,3 @@ unsigned int Vec3i::getTri3()
 Vec3i::~Vec3i() {
 	// TODO Auto-generated destructor stub
 }
-

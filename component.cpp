@@ -5,7 +5,7 @@
  *      Author: blupi
  */
 
-#include "Component.h"
+#include "component.h"
 
 // TODO transformer triangles en triplets
 Component::Component(std::vector<Vec3f> newPos, std::vector<Vec3i> newTri) {
@@ -36,4 +36,3 @@ std::vector<Vec3i> Component::getTri()
 Component::~Component() {
 	// TODO Auto-generated destructor stub
 }
-

@@ -9,8 +9,8 @@
 #define MODEL_H_
 
 #include "component.h"
-#include "Vec3f.h"
-#include "Vec3i.h"
+#include "vec3f.h"
+#include "vec3i.h"
 #include "tinyxml2.h"
 using namespace tinyxml2;
 

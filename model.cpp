@@ -5,7 +5,7 @@
  *      Author: blupi
  */
 
-#include "Model.h"
+#include "model.h"
 
 Model::Model()
 {
@@ -156,4 +156,3 @@ Model::~Model()
 {
 
 }
-
