@@ -15,6 +15,8 @@ public:
 	float getX();
 	float getY();
 	float getZ();
+	float dist(Vec3f * v);
+	float dist2(Vec3f * v); // return squared distance
 	virtual ~Vec3f();
 
 private:
