@@ -11,7 +11,7 @@ EXE = main
 all: run clean
 
 run: $(EXE)
-	./$(EXE)
+	./$<
 
 $(EXE): $(OBJS)
 
