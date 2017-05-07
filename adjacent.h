@@ -14,6 +14,7 @@ using namespace std;
 
 class Adjacent {
 public:
+	Adjacent();
 	Adjacent(vector<Component> * comps);
     // compute matrix and return it;
     int ** computeMatrix();

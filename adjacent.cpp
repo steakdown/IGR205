@@ -7,6 +7,10 @@
 
 #include "adjacent.h"
 
+Adjacent::Adjacent()
+{
+}
+
 Adjacent::Adjacent(vector<Component> * comps): comps(comps)
 {
     nbComps = comps->size();
